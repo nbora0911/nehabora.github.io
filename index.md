@@ -1,3 +1,9 @@
+## Work Experience
+
+## Short projects
+
+## Extra Curricular activities
+
 ## Education 
 
 ### Self directed education:
