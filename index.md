@@ -1,11 +1,11 @@
 ## Education 
 
 ### Self directed education:
-- Machine Learning by Andrew Ng
 - CS224: Natural Language Processing with Deep Learning by Christopher Manning
+- Machine Learning by Andrew Ng
 
 
-#### Graduate School:
+### Graduate School:
 - M.S in Applied Mathematics
 - Iowa State University
 
