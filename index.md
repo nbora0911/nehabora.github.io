@@ -1,3 +1,0 @@
-I am Neha Bora. 
-
-I have four+ years of experience in applying machine learning solutions to business problems. I am an applied mathematics and physics graduate with a strong quantitative background. I have worked on several independent and collaborative projects in a challenging research environment with proven ability to prioritize work and meet tight deadlines. I carry with me an international experience of working in 3 countries. I am adaptable, quick learner with strong communication, networking, critical thinking, and problem solving skills.
