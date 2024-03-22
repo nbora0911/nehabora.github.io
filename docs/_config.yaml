@@ -1,0 +1,9 @@
+# Site settings
+title: Personal Website
+author:
+  name: Neha Bora
+  email: nehabora91@gmail.com
+description: "Stay Foolish, Stay Hungry"
+
+# Build settings
+remote_theme: jekyll/minima
